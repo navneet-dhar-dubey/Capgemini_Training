@@ -35,5 +35,8 @@ public class MainBeans {
 		//create an object of dataSource and inject into the spring context
 		DataSource bean7 = context.getBean(DataSource.class);
 		
+		UserVerifier bean9= context.getBean(UserVerifier.class);
+		bean9.verifyUser();
+		
 	}
 }

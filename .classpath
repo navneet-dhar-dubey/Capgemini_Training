@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AssessmentMarch_07-main/hibernate-mess/src/main/java"/>
+	<classpathentry kind="src" path="Assignment28Feb/src"/>
+	<classpathentry kind="src" path="Java/AdvancedJava_21Feb-25Feb/src"/>
+	<classpathentry kind="src" path="Java/maven-project-demo_27Feb/src/main/java"/>
+	<classpathentry kind="src" path="Java/maven-project-demo_27Feb/src/test/java"/>
+	<classpathentry kind="src" path="Java/Testing_26Feb/src"/>
+	<classpathentry kind="src" path="Java/Testing_26Feb/Test"/>
+	<classpathentry kind="src" path="spring/spring-bean-demo/src/main/java"/>
+	<classpathentry kind="output" path="AssessmentMarch_07-main/hibernate-mess/target/classes"/>
+</classpath>
