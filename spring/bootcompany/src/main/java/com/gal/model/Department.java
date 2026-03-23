@@ -14,6 +14,19 @@ public class Department {
 	@Column(name="department_id")
 	int departmentid;
 	
+	public Department() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public Department(int departmentid, String deptname, int managerid, Date establishdate) {
+		super();
+		this.departmentid = departmentid;
+		this.deptname = deptname;
+		this.managerid = managerid;
+		this.establishdate = establishdate;
+	}
+
 	@Column(name="department_name")
 	String deptname;
 	
